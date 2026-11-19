@@ -1,0 +1,11 @@
+﻿image,group,leaf_pixels,baseline_spot_pixels,new_spot_pixels,baseline_percent,new_percent,new_components,outside_leaf_pixels,mask_contract
+data/normal/1.png,normal,403816,3453,2183,0.8551,0.5406,1,0,PASS
+data/normal/2.png,normal,474320,0,20,0.0,0.0042,1,0,PASS
+data/normal/3.png,normal,349807,279654,418,79.9452,0.1195,19,0,PASS
+data/normal/4.png,normal,467810,0,0,0.0,0.0,0,0,PASS
+data/normal/5.png,normal,303837,83,0,0.0273,0.0,0,0,PASS
+data/spotted/hu1.png,spotted,377274,289887,16188,76.8373,4.2908,22,0,PASS
+data/spotted/hu2.png,spotted,558256,148594,171535,26.6175,30.7269,8,0,PASS
+data/spotted/hu3.png,spotted,410643,16265,10239,3.9609,2.4934,8,0,PASS
+data/spotted/hu4.png,spotted,336574,19291,38720,5.7316,11.5042,48,0,PASS
+data/spotted/hu5.png,spotted,636407,8065,12752,1.2673,2.0037,10,0,PASS

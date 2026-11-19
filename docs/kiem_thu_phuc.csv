@@ -1,0 +1,11 @@
+ten_anh,nguon_anh,nhan_thuc_te,leaf_pixels,spot_pixels,severity_percent,cap_do_tieng_viet,cap_do_tieng_anh,ui_hien_thi_4_anh,ui_tai_csv,ui_tai_png,ghi_chu
+1.png,Ảnh mẫu có sẵn,Bình thường,403816,2183,0.54%,Nhẹ,Low / Early Stage,Đạt,Đạt,Đạt,Vết viền mép lá nhỏ
+2.png,Ảnh mẫu có sẵn,Bình thường,474320,20,<0.01%,Bình thường,Healthy (Normal),Đạt,Đạt,Đạt,Nhiễu bóng rất nhỏ 20px
+3.png,Ảnh mẫu có sẵn,Bình thường,349807,418,0.12%,Nhẹ,Low / Early Stage,Đạt,Đạt,Đạt,Đã khắc phục lỗi mặt dưới lá màu đồng (từ 79.95% về 0.12%)
+4.png,Ảnh mẫu có sẵn,Bình thường,467810,0,0.00%,Bình thường,Healthy (Normal),Đạt,Đạt,Đạt,Chính xác tuyệt đối (0 pixel đốm)
+5.png,Ảnh mẫu có sẵn,Bình thường,303837,0,0.00%,Bình thường,Healthy (Normal),Đạt,Đạt,Đạt,Chính xác tuyệt đối (0 pixel đốm)
+hu1.png,Ảnh mẫu có sẵn,Có đốm,377274,16188,4.29%,Nhẹ,Low / Early Stage,Đạt,Đạt,Đạt,Khoanh chính xác ổ bệnh hoại tử
+hu2.png,Ảnh mẫu có sẵn,Có đốm,558256,171535,30.73%,Nặng,Severe Stage,Đạt,Đạt,Đạt,Cháy loang diện rộng trên 30%
+hu3.png,Ảnh mẫu có sẵn,Có đốm,410643,10239,2.49%,Nhẹ,Low / Early Stage,Đạt,Đạt,Đạt,Phát hiện đốm chấm hoại tử
+hu4.png,Ảnh mẫu có sẵn,Có đốm,336574,38720,11.50%,Trung bình,Moderate Stage,Đạt,Đạt,Đạt,Bắt trúng cụm đốm phân tán
+hu5.png,Ảnh mẫu có sẵn,Có đốm,636407,12752,2.00%,Nhẹ,Low / Early Stage,Đạt,Đạt,Đạt,Bắt đúng ổ bệnh góc cuống lá

@@ -1,0 +1,4 @@
+PASS: uploaded hu1.png through Chrome UI; analyzed successfully.
+PASS: downloaded leaf_mask, spot_mask, annotated PNG and CSV through UI.
+PASS: masks are uint8 binary, same dimensions, zero spot pixels outside leaf.
+PASS: CSV agrees with PNG pixel counts: leaf=377274; spot=16188; percent=4.29.
